@@ -1,9 +1,14 @@
+
 {
   "name": "backend",
   "version": "1.0.0",
   "description": "Heatmap for CompuFix",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+},
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
