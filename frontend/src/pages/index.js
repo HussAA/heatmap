@@ -1,6 +1,6 @@
 import React from "react";
 import IndexPostalCode from "../components/Data/PostalCodes";
-
+import {MapContainer} from '../components/Map'
 const IndexPage = () => {
 
   return (
