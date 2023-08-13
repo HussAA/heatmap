@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@react-google-maps/api": "^2.19.2",
     "autoprefixer": "^10.4.14",
     "dotenv": "^16.3.1",
     "gatsby": "^5.11.0",
